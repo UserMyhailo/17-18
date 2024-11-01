@@ -1,5 +1,5 @@
 <?php
-// Шлях до файлу
+
 $filename = "text.txt";
 
 // a
